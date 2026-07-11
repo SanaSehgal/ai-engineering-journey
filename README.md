@@ -1,25 +1,44 @@
-# ai-engineering-journey
-# AI Engineer Journey
+# 🤖 AI Engineering Journey
 
-Hi! I'm Sana.
+Hi, I'm **Sana Sehgal** 👋
 
-I'm a Software Engineer and Master of Applied Computing graduate who is learning AI Engineering by building real projects.
+I'm a Software Engineer and Master of Applied Computing graduate passionate about building AI-powered applications.
 
-## Goals
+This repository documents my journey from learning the fundamentals of Large Language Models (LLMs) to building real-world AI products.
 
-- Learn Prompt Engineering
-- Build AI-powered applications
-- Learn LLM APIs
-- Build RAG systems
-- Explore AI Agents
-- Share everything I learn
+---
 
-## Projects
+## 🚀 My Goal
 
-- ✅ Day 1 – AI Fundamentals
--  Resume Roaster
--  PDF Chat Assistant
--  AI Career Copilot
+Over the next few months, I will build practical AI applications while learning:
+
+- Prompt Engineering
+- LLM APIs
+- Retrieval-Augmented Generation (RAG)
+- AI Agents
+- Vector Databases
+- AI Automation
+- Full-Stack AI Applications
+
+---
+
+## 📅 Learning Roadmap
+
+### ✅ Day 1
+- Understanding LLMs
+- Tokens
+- Context Windows
+- Prompt Engineering
+
+### ⏳ Coming Next
+
+- AI Resume Roaster
+- AI Interview Coach
+- PDF Chat Assistant
+- AI Career Copilot
+- AI Job Hunter
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -27,10 +46,22 @@ I'm a Software Engineer and Master of Applied Computing graduate who is learning
 - Git
 - GitHub
 - VS Code
-- OpenAI API (coming soon)
-- LangChain (coming soon)
-- FAISS (coming soon)
+
+Coming Soon
+
+- OpenAI API
+- LangChain
+- FAISS
+- Streamlit
+- FastAPI
+- Docker
 
 ---
 
-⭐ This repository documents my AI learning journey and projects.
+## 📌 Why this repository?
+
+Instead of only watching tutorials, I'm documenting everything I build.
+
+Every project here represents a step toward becoming an AI Engineer.
+
+Thanks for visiting! 🚀
