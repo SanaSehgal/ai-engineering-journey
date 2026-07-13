@@ -9,6 +9,9 @@ Which affects an AI response more?
 - Using both?
 
 ---
+## Hypothesis
+
+I believe that defining both the AI's role and the target audience will produce the highest-quality response because it provides more context about both the expertise and the communication style expected from the model.
 
 ## Status
 
