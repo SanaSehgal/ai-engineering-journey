@@ -166,6 +166,16 @@ The best response was produced when both the role and the audience were clearly 
 
 Clearly defining the AI's role and the target audience improves response quality more effectively than simply writing longer prompts.
 
+## 💭 Personal Reflection
+
+Before this experiment, I assumed prompt engineering was mainly about writing longer prompts.
+
+After comparing multiple prompt designs, I realized that the clarity of the instructions matters much more than the length of the prompt.
+
+The biggest surprise for me was how much defining the audience changed the explanation.
+
+Going forward, I want to investigate which prompt components have the greatest influence on AI behaviour and use those findings to build better AI applications.
+
 
 ## 🚀 Next Experiment
 
