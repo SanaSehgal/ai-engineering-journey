@@ -1,4 +1,18 @@
 # Experiment 001: Role vs Audience
+
+## Table of Contents
+
+- Research Question
+- Why I Chose This Experiment
+- Hypothesis
+- Experimental Design
+- Prompts Used
+- Results
+- Observations
+- Conclusion
+- Prompt Engineering Principle
+- Personal Reflection
+- Next Experiment
 ## Research Question
 
 When explaining the same concept, which has a greater impact on the quality of an AI response?
