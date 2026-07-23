@@ -1,4 +1,4 @@
-# Experiment 001: Role vs Audience
+PL-001: Does Role or Audience Have a Greater Impact on AI Responses?
 
 ## Table of Contents
 
